@@ -1,0 +1,4 @@
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\x64\Release\MainWindow.g.cs
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\x64\Release\App.g.cs
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\x64\Release\ImageTool4_MarkupCompile.cache
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\x64\Release\ImageTool4_MarkupCompile.lref

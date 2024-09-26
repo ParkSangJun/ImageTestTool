@@ -1,0 +1,187 @@
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\bin\Debug\ImageTool4.exe.config
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\bin\Debug\ImageTool4.exe
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\bin\Debug\ImageTool4.pdb
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\bin\Debug\System.Drawing.Common.dll
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.AssemblyReference.cache
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\MainWindow.g.cs
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\App.g.cs
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4_MarkupCompile.cache
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4_MarkupCompile.lref
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\MainWindow.baml
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.g.resources
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.Properties.Resources.resources
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.GenerateResource.cache
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.CoreCompileInputs.cache
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.CopyComplete
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.exe
+C:\Users\hhlee\Downloads\ImageTool4\ImageTool4\obj\Debug\ImageTool4.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ImageTool4.exe.config
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ImageTool4.exe
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ImageTool4.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Drawing.Common.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\MainWindow.g.cs
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\App.g.cs
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4_MarkupCompile.cache
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4_MarkupCompile.lref
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\MainWindow.baml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.g.resources
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.Properties.Resources.resources
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.GenerateResource.cache
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.CoreCompileInputs.cache
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.CopyComplete
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.exe
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\CommonServiceLocator.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Windows.Interactivity.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\BouncyCastle.Cryptography.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Enums.NET.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ExtendedNumerics.BigDecimal.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\MathNet.Numerics.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.Core.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OOXML.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OpenXml4Net.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\SixLabors.Fonts.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\SixLabors.ImageSharp.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Buffers.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Memory.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Numerics.Vectors.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.AccessControl.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.Principal.Windows.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.ValueTuple.dll
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\BouncyCastle.Cryptography.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Enums.NET.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Enums.NET.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ExtendedNumerics.BigDecimal.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\MathNet.Numerics.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.Core.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.Core.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OOXML.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OOXML.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OpenXml4Net.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\SixLabors.Fonts.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\SixLabors.ImageSharp.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Buffers.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Memory.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Numerics.Vectors.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.AccessControl.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Security.Principal.Windows.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\bin\Debug\System.ValueTuple.xml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\Preview.g.cs
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\Preview.baml
+D:\source\2차 과제\ImageProcessing\opencv\ImageTool4\ImageTool4\obj\Debug\ImageTool4.csproj.AssemblyReference.cache
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ImageTool4.exe.config
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ImageTool4.exe
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ImageTool4.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\CommonServiceLocator.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Enums.NET.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\MathNet.Numerics.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.Core.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OOXML.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\SixLabors.Fonts.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Buffers.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Drawing.Common.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Memory.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.ValueTuple.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Enums.NET.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Enums.NET.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\MathNet.Numerics.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.Core.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.Core.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OOXML.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OOXML.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\SixLabors.Fonts.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Buffers.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Memory.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\bin\Debug\System.ValueTuple.xml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.csproj.AssemblyReference.cache
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\MainWindow.g.cs
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\Preview.g.cs
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\App.g.cs
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4_MarkupCompile.cache
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4_MarkupCompile.lref
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\MainWindow.baml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\Preview.baml
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.g.resources
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.Properties.Resources.resources
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.csproj.GenerateResource.cache
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.csproj.CoreCompileInputs.cache
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.csproj.CopyComplete
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.exe
+C:\Users\sangjun\Documents\GitHub\ImageTestTool\ImageTool4\obj\Debug\ImageTool4.pdb
