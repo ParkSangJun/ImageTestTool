@@ -74,8 +74,6 @@ namespace ImageTool4
         }
         public double zoomScale = 1.0;
 
-
-
         public void ImageBox1_MouseWheel(object sender, MouseWheelEventArgs e)
         {
             System.Windows.Controls.Image img = (System.Windows.Controls.Image)sender;
@@ -85,8 +83,14 @@ namespace ImageTool4
             double zoomFactor = e.Delta > 0 ? 1.1 : 0.9;
             ratio *= zoomFactor;
 
-            if (ratio > 100.0) ratio = 100.0;
-            if (ratio < 1.0) ratio = 1.0;
+            if (ratio > 100.0)
+            {
+                ratio = 100.0;
+            }
+            if (ratio < 1.0)
+            {
+                ratio = 1.0;
+            }
 
             imgRect1.Width = ImageBox1.ActualWidth * ratio;
             imgRect1.Height = ImageBox1.ActualHeight * ratio;
@@ -98,7 +102,41 @@ namespace ImageTool4
             UpdateImageDisplay1();
 
             Point currentPoint = Mouse.GetPosition(ImageBox1);
-            previewVM.UpdateZoomRegion(new Rect(currentPoint.X, currentPoint.Y, 50, 50));
+            imgPoint1.X = currentPoint.X;
+            imgPoint1.Y = currentPoint.Y;
+
+            double originalRectWidth = ImageBox1.Width;
+            double originalRectHeight = ImageBox1.Height;
+
+            double rectWidth = originalRectWidth / ratio;
+            double rectHeight = originalRectHeight / ratio;
+
+            if(ratio < 1)
+            {
+                previewVM.UpdateZoomRegion(new Rect(0, 0, 0, 0));
+            }
+
+            double rectX = currentPoint.X - rectWidth / 2;
+            double rectY = currentPoint.Y - rectHeight / 2;
+
+            if (rectX < 0)
+            {
+                rectX = 0;
+            }
+            if (rectY < 0)
+            {
+                rectY = 0;
+            }
+            if (rectX + rectWidth > 310)
+            {
+                rectX = 310 - rectWidth;
+            }
+            if (rectY + rectHeight > 310)
+            {
+                rectY = 310 - rectHeight;
+            }
+
+            previewVM.UpdateZoomRegion(new Rect(rectX, rectY, rectWidth, rectHeight));
         }
 
         public void ImageBox1_MouseDown(object sender, MouseButtonEventArgs e)
@@ -123,12 +161,20 @@ namespace ImageTool4
 
                 clickPoint1 = currentPoint;
             }
-            else
-            {
-                Point currentPoint = Mouse.GetPosition(ImageBox1);
-                imgPoint1.X = currentPoint.X;
-                imgPoint1.Y = currentPoint.Y;
-            }
+            //else
+            //{
+            //    Point currentPoint = Mouse.GetPosition(ImageBox1);
+            //    imgPoint1.X = currentPoint.X;
+            //    imgPoint1.Y = currentPoint.Y;
+
+            //    double rectWidth = 50;
+            //    double rectHeight = 50;
+
+            //    double rectX = currentPoint.X - rectWidth / 2;
+            //    double rectY = currentPoint.Y - rectHeight / 2;
+
+            //    previewVM.UpdateZoomRegion(new Rect(rectX, rectY, rectWidth, rectHeight));
+            //}
         }
 
         public void AdjustImagePosition1()

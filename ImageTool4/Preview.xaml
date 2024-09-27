@@ -5,15 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ImageTool4"
         mc:Ignorable="d"
-        Title="Preview" Height="370" Width="370">
+        Title="Preview" Height="400" Width="400">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="10*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Image  Grid.Row="0" Name="ViewImageBox1" 
-                Source="{Binding ImageSource}" Height="310" Width="310" Grid.Column="0"/>
-        <Canvas>
+
+        <Canvas Grid.Row="0"  Height="310" Width="310" >
+            <Image  Name="ViewImageBox1" Height="310" Width="310" 
+                Source="{Binding ImageSource}" Grid.Column="0"/>
             <Rectangle Stroke="Red" StrokeThickness="2"
                        Canvas.Left="{Binding ZoomRegion.X}" 
                        Canvas.Top="{Binding ZoomRegion.Y}" 

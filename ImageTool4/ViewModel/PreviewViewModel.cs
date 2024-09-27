@@ -43,6 +43,7 @@ namespace ImageTool4
         public void UpdateZoomRegion(Rect rect)
         {
             ZoomRegion = new Rect(rect.X,rect.Y, rect.Width, rect.Height);
+            
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
